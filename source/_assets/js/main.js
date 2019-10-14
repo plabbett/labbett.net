@@ -1,0 +1,1 @@
+var fa = require('@fortawesome/fontawesome-free/js/all');
