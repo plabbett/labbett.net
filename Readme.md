@@ -40,5 +40,5 @@ Build jigsaw site without re-running Laravel Mix everytime
 
 Font Awesome is great, but when you're using limited icons there's no need for a 1.2MB compiled JS file. 
 
-So, to keep it small, I add individual icons into sources/_assets/js/fontawesome-custom.js.
+So, to keep it small, I add individual icons into `source/_assets/js/fontawesome-custom.js`.
 
