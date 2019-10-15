@@ -1,1 +1,2 @@
-var fa = require('@fortawesome/fontawesome-free/js/all');
+require("@fortawesome/fontawesome-free/js/fontawesome");
+require("@fortawesome/fontawesome-free/js/brands");
