@@ -46,5 +46,6 @@
   </div>
 </div>
 
+@include('_layouts.footer')
 
 @endsection
