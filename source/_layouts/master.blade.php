@@ -7,7 +7,7 @@
 
             I do not enable any marketing, referrals, re-marketing, or personalized data collection on my site. 
             I use Google Analytics for  historical reporting of aggregate visitors.
-            This allows me to see # of visitors my site.
+            This allows me to see # of visitors to my site over time.
             That's it. No other shenanigans. 
 
             Thanks for taking a look under the hood.
