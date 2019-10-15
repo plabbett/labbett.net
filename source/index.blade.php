@@ -28,7 +28,7 @@
     <br>
     Technical consulting, software development, and documentation for call centers.
     <br>
-    <a alt="NotifiUs, LLC" class="focus:outline-none focus:shadow-outline hover:shadow-outline text-sm uppercase text-gray-100 rounded-lg inline-block shadow-sm bg-purple-700 my-4 px-4 py-2 hover:bg-purple-900 hover:text-white" href="https://notifi.us/contact">
+    <a alt="NotifiUs, LLC" class="focus:outline-none focus:shadow-outline hover:shadow-outline text-sm uppercase text-gray-100 inline-block shadow-sm bg-purple-700 my-4 px-4 py-2 hover:bg-purple-900 hover:text-white" href="https://notifi.us/contact">
       Hire my company
     </a>
   </div>
