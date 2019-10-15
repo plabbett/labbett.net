@@ -28,22 +28,11 @@
     <br>
     Technical consulting, software development, and documentation for call centers.
     <br>
-    <a class="text-sm uppercase text-white rounded-lg inline-block shadow bg-purple-900 my-4 px-4 py-2 hover:bg-purple-700 border hover:text-purple-200" href="https://notifi.us/contact">
+    <a alt="NotifiUs, LLC" class="text-sm uppercase text-white rounded-lg inline-block shadow bg-purple-900 my-4 px-4 py-2 hover:bg-purple-700 border hover:text-purple-200" href="https://notifi.us/contact">
       Hire my company
     </a>
   </p>
  
-</div>
-
-<div class="container px-4 my-10 max-w-lg mx-auto mt-6 text-center">
-  <div class="flex flex-wrap">
-    <div class="md:w-1/3 sm:w-auto">
-    </div>
-    <div class="md:w-1/3 sm:w-auto">
-    </div>
-    <div class="md:w-1/3 sm:w-auto">
-    </div>
-  </div>
 </div>
 
 @include('_layouts.footer')
