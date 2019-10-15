@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div class="w-12/12 px-4 py-8 my-10 mx-0 text-center bg-indigo-100">
+<div class="w-12/12 px-4 py-8 my-10 mx-0 text-center bg-gray-300 shadow-inner">
 
   <div class="container text-xl font-bold text-gray-500 mx-auto max-w-lg text-center">
     <a href="https://notifi.us">
