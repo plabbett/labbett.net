@@ -13,7 +13,8 @@
         <meta property="og:description" content="I build things for the call center industry.">
         <meta property="og:image" content="https://www.labbett.net/assets/images/master_plan.png">
         <meta property="og:url" content="https://www.labbett.net">
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="website">
+        <meta property="og:image:alt" content="Patrick Labbett">
 
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image:alt" content="Patrick Labbett">
