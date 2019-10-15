@@ -1,6 +1,6 @@
 <div class="container px-4 max-w-lg mx-auto text-center my-10">
     <p class="text-sm font-sans w-100 text-gray-500">
-        Created with <i class="fas fa-heart text-indigo-600"></i> in Ohio by Patrick Labbett
+        Created with <span class="text-indigo-600">&hearts;</span> in <span class="text-gray-400">Ohio</span> by <span class="text-gray-400">Patrick Labbett</span>
         <br>
         <span class="text-gray-600 opacity-75">All rights reserved &copy; 2019</span>
     </p>
