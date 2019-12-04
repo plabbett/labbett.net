@@ -1,8 +1,8 @@
 <div class="container px-4 max-w-lg mx-auto text-center my-10">
     <p class="text-sm font-sans w-100 text-gray-500">
-        Created with <i class="fas fa-heart text-indigo-600"></i> in <span class="text-gray-400">Ohio</span> by <span class="text-gray-400">Patrick Labbett</span>
-        <br>
-        <span class="text-gray-600 opacity-75">All rights reserved &copy; 2019</span>
+        Created with <i class="fas fa-heart text-gray-700"></i> in <span class="uppercase font-black text-gray-600">OHIO</span> by <span class="text-gray-600 font-semibold">Patrick Labbett</span>
+
+        <span class="block my-4 text-gray-600 opacity-75">All rights reserved &copy; 2019</span>
     </p>
 
     <p class="text-xs font-sans w-100 text-gray-700 mt-10">

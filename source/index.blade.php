@@ -15,21 +15,21 @@
 
 <div class="container px-4 max-w-lg mx-auto mt-6 text-center">
   <div class="w-100">
-      <img class="w-auto mx-auto" src="/assets/images/master_plan.svg" title="Patrick Labbett" alt="Patrick Labbett">
+      <img class="w-auto mx-auto opacity-75" src="/assets/images/master_plan.svg" title="Patrick Labbett" alt="Patrick Labbett">
   </div>
 </div>
 
-<div class="w-12/12 px-4 py-8 my-10 mx-0 text-center bg-gray-300 shadow-inner">
+<div class="w-12/12 px-4 py-8 my-10 mx-0 text-center bg-gray-200 shadow-inner">
 
-  <div class="container text-xl font-bold text-gray-500 mx-auto max-w-lg text-center">
+  <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
     <a href="https://notifi.us">
-      <img class="inline-block" style="width:201px;height:43px;" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
+      <img class="inline-block w-64" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
     </a>
     <br>
-    Technical consulting, software development, and documentation for call centers.
+    Technical consulting, software development, and documentation for call centers and answering services.
     <br>
-    <a alt="NotifiUs, LLC" class="focus:outline-none focus:shadow-outline hover:shadow-outline text-sm uppercase text-gray-100 inline-block shadow-sm bg-purple-700 my-4 px-4 py-2 hover:bg-purple-900 hover:text-white" href="https://notifi.us/contact">
-      Hire my company
+    <a alt="NotifiUs, LLC" class="rounded-sm focus:shadow-outline text-sm font-bold uppercase text-gray-100 inline-block shadow bg-purple-700 my-4 p-4 hover:bg-purple-900 hover:text-white" href="https://notifi.us/contact">
+      Level up your call center
     </a>
   </div>
  
