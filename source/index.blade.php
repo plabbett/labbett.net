@@ -15,14 +15,17 @@
 
 <div class="container px-4 max-w-lg mx-auto mt-6 text-center">
   <div class="w-100">
-      <img class="w-auto mx-auto opacity-75" src="/assets/images/master_plan.svg" title="Patrick Labbett" alt="Patrick Labbett">
+      <img class="w-auto mx-auto opacity-75" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
   </div>
 </div>
 
 <div class="w-12/12 px-4 py-8 mt-10 mx-0 text-center bg-gray-200 shadow-inner">
 
   <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
-    <a href="https://notifi.us">
+      <h2 class="text-gray-400 text-2xl font-black text-center mb-6">
+          Hire my company
+      </h2>
+      <a href="https://notifi.us">
       <img class="inline-block w-64" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
     </a>
     <br>
