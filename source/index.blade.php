@@ -39,7 +39,7 @@
     <div class="flex flex-wrap max-w-4xl mx-auto text-center">
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://notifi.us">
-                <img class="w-10/12 mx-auto" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
+                <img class="w-10/12 mx-auto" src="/assets/images/notifius.png" title="Technical consulting, engineering, and implementation" alt="notifi.us">
             </a>
         </div>
 
