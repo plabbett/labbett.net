@@ -4,7 +4,7 @@
 
 @include('_layouts.nav')
 
-<div class="container px-4 mx-auto max-w-lg text-center mt-8">
+<div class="container px-4 mx-auto max-w-lg text-center my-8">
     <h1 class="text-indigo-800 font-extrabold text-4xl text-center font-sans">
         Hello, I'm <span class="text-indigo-700">Patrick</span>!
     </h1>
@@ -19,9 +19,9 @@
   </div>
 </div>
 
-<div class="w-12/12 px-4 py-8 mt-10 mx-0 text-center bg-gray-300">
-    <h2 class="text-gray-400 text-2xl font-black text-center mt-6">
-        Support me directly
+<div class="w-12/12 px-4 py-8 mt-16 mx-0 text-center bg-gray-300">
+    <h2 class="text-gray-500 text-2xl font-black text-center mt-6">
+        Support my work!
     </h2>
    <p class="mx-auto max-w-2xl text-gray-500">
        Sponsor my open-source work directly on Github or purchase items from my store.
@@ -42,6 +42,9 @@
         </div>
 
     </div>
+    <small class="text-indigo-300 font-semibold">
+        Thank you so much! <i class="far fa-heart text-pink-300"></i>
+    </small>
 </div>
 
 <div class="w-12/12 px-4 py-8 mt-0 mx-0 text-center bg-gray-200 shadow-inner">
