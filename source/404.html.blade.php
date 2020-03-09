@@ -10,10 +10,10 @@
     </h1>
 </div>
 
-<div class="container px-4 max-w-lg mx-auto mt-6 text-center">
+<div class="container px-4 max-w-sm mx-auto mt-6 text-center">
     <div class="w-100">
         <a href="/" class="text-indigo-300 hover:text-indigo-500">
-            <img class="w-auto mx-auto opacity-75 mb-4" src="/assets/images/taken.svg" title="Go home" alt="Alien abduction">
+            <img class="w-auto mx-auto mb-4" src="/assets/images/void.svg" title="Go home" alt="Alien abduction">
         </a>
     </div>
 </div>
