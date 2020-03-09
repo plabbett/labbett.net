@@ -13,13 +13,38 @@
     </h2>
 </div>
 
-<div class="container px-4 max-w-lg mx-auto mt-6 text-center">
-  <div class="w-100">
+<div class="container px-4 max-w-lg mx-auto text-center">
+  <div class="w-100 pb-12">
       <img class="w-auto mx-auto opacity-75" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
   </div>
 </div>
 
-<div class="w-12/12 px-4 py-8 mt-10 mx-0 text-center bg-gray-200 shadow-inner">
+<div class="w-12/12 px-4 py-8 mt-10 mx-0 text-center bg-gray-300">
+    <h2 class="text-gray-400 text-2xl font-black text-center mt-6">
+        Support me directly
+    </h2>
+   <p class="mx-auto max-w-2xl text-gray-500">
+       Sponsor my open-source work directly on Github or purchase items from my store.
+   </p>
+    <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
+        <div class="flex flex-wrap max-w-6xl mx-auto text-center">
+            <div class="w-full lg:w-1/2 mx-auto my-3">
+                <a class="hover:bg-white hover:text-indigo-600 border-2 border-text-200 text-lg inline-block p-3 bg-gray-100 text-gray-800 rounded shadow-sm"  href="https://github.com/sponsors/plabbett">
+                    <i class="fas fa-heart text-pink-500"></i> Sponsor me on Github
+                </a>
+            </div>
+
+            <div class="w-full lg:w-1/2 mx-auto my-3">
+                <a class="hover:bg-white hover:text-indigo-600 border-2 border-text-200 text-lg inline-block p-3 bg-gray-100 text-gray-800 rounded shadow-sm"  href="https://store.calltheory.com">
+                    <i class="fas fa-shopping-cart text-green-500"></i> Buy my telephone art
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="w-12/12 px-4 py-8 mt-0 mx-0 text-center bg-gray-200 shadow-inner">
 
   <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
       <h2 class="text-gray-400 text-2xl font-black text-center mb-6">
