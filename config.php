@@ -2,6 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
     'collections' => [],
+    'baseUrl' => 'http://localhost:3000',
+    'year' => date('Y'),
 ];

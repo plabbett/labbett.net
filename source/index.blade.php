@@ -23,7 +23,7 @@
 
   <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
       <h2 class="text-gray-400 text-2xl font-black text-center mb-6">
-          Hire my company
+          Hire my company!
       </h2>
       <a href="https://notifi.us">
       <img class="inline-block w-64" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
