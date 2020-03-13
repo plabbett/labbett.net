@@ -1,5 +1,5 @@
 <nav>
-  <div class="container mx-auto px-4 py-2 flex justify-between items-center">
+  <div class="container mx-auto px-4 py-4 flex justify-between items-center">
     <div class="ml-auto">
       <ul class="inline-flex">
         <li>

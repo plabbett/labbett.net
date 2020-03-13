@@ -3,22 +3,25 @@
 @section('body')
 
 @include('_layouts.nav')
+<div class="telephony-rules">
+    <div class="px-4 mx-auto max-w-lg text-center mb-8">
+        <h1 class="text-indigo-800 font-extrabold text-4xl text-center font-sans">
+            Hello, I'm <span class="text-indigo-700">Patrick</span>!
+        </h1>
+        <h2 class="text-indigo-400 text-2xl text-center mb-6">
+            I build things for the <span class="whitespace-no-wrap font-bold text-indigo-300">call center industry</span>.
+        </h2>
+    </div>
 
-<div class="container px-4 mx-auto max-w-lg text-center my-8">
-    <h1 class="text-indigo-800 font-extrabold text-4xl text-center font-sans">
-        Hello, I'm <span class="text-indigo-700">Patrick</span>!
-    </h1>
-    <h2 class="text-indigo-400 text-2xl text-center mb-6">
-        I build things for the <span class="whitespace-no-wrap font-bold text-indigo-300">call center industry</span>.
-    </h2>
+    <div class="my-6 px-4 max-w-lg mx-auto text-center">
+      <div class="w-100 pb-12">
+
+      <img class="w-auto mx-auto" id="patricklabbett" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
+
+      </div>
+    </div>
 </div>
-
-<div class="container px-4 max-w-lg mx-auto text-center">
-  <div class="w-100 pb-12">
-      <img class="w-auto mx-auto opacity-75" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
-  </div>
-</div>
-
+<!--
 <div class="w-12/12 px-4 py-8 mt-16 mx-0 text-center bg-gray-300">
     <h2 class="text-gray-500 text-2xl font-black text-center mt-6">
         Support my work!
@@ -42,10 +45,11 @@
         </div>
 
     </div>
-    <small class="text-indigo-300 font-semibold">
-        Thank you so much! <i class="far fa-heart text-pink-300"></i>
+    <small class="text-indigo-600 font-bold">
+        Thank you so much! <i class="far fa-heart text-pink-600"></i>
     </small>
 </div>
+-->
 
 <div class="w-12/12 px-4 py-8 mt-0 mx-0 text-center bg-gray-200 shadow-inner">
 
