@@ -17,7 +17,7 @@
     <div class="my-6 px-4 max-w-lg mx-auto text-center">
       <div class="w-100 pb-12">
 
-      <img class="w-auto mx-auto" id="patricklabbett" src="/assets/images/voice.svg?dsfsdf=3433234" title="Patrick Labbett" alt="Patrick Labbett">
+      <img class="w-auto mx-auto" id="patricklabbett" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
 
       </div>
     </div>
