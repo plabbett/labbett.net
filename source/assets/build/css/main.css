@@ -11406,8 +11406,8 @@ video {
 }
 
 body {
-  background: #1a202c;
-  background: radial-gradient(circle, #1a202c 0%, black 100%);
+  background: #2d3748;
+  background: radial-gradient(circle, #2d3748 0%, black 100%);
 }
 
 @media (min-width: 640px){
