@@ -4,7 +4,7 @@
         Created in <strong class="font-semibold">Ohio</strong> by <span class="font-semibold">Patrick Labbett</span>
         <small class="block w-auto">
             <a class="hover:text-indigo-600 inline-block text-gray-600"  href="https://github.com/sponsors/plabbett">
-                <i class="far fa-heart text-indigo-500"></i> Sponsor me on Github
+                <i class="fas fa-heart text-indigo-500"></i> Sponsor me on Github
             </a>
             <span class="text-gray-800"> &middot; </span>
             <a class="hover:text-indigo-600 inline-block text-gray-600"  href="https://store.calltheory.com">
