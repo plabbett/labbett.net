@@ -1,14 +1,14 @@
-<div class="container px-4 max-w-lg mx-auto text-center my-10">
+<div class="w-100 px-4 mx-auto text-center my-0 bg-gray-900 py-20">
 
     <p class="text-sm font-sans w-100 text-gray-500">
-        Created with <i class="fas fa-heart text-gray-700"></i> in <span class="uppercase font-black text-gray-600">OHIO</span> by <span class="text-gray-600 font-semibold">Patrick Labbett</span>
-        <small  class="inline-block">
+        Created in <strong class="font-semibold">Ohio</strong> by <span class="font-semibold">Patrick Labbett</span>
+        <small class="block w-auto">
             <a class="hover:text-indigo-600 inline-block text-gray-600"  href="https://github.com/sponsors/plabbett">
-                Sponsor me on Github
+                <i class="far fa-heart text-indigo-500"></i> Sponsor me on Github
             </a>
             <span class="text-gray-800"> &middot; </span>
             <a class="hover:text-indigo-600 inline-block text-gray-600"  href="https://store.calltheory.com">
-                Buy my telephone art
+                <i class="fas fa-shopping-cart text-indigo-500"></i>  Buy my telephone art
             </a>
         </small>
         <span class="block my-4 text-gray-600 opacity-75">All rights reserved &copy; {{ $page->year }}</span>
@@ -19,7 +19,5 @@
             <i class="fab fa-github"></i> Github
         </a>
     </p>
-
-
 
 </div>

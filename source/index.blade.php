@@ -3,9 +3,10 @@
 @section('body')
 
 @include('_layouts.nav')
+
 <div class="telephony-rules">
     <div class="px-4 mx-auto max-w-lg text-center mb-8">
-        <h1 class="text-indigo-800 font-extrabold text-4xl text-center font-sans">
+        <h1 class="hello text-indigo-800 font-black text-4xl text-center">
             Hello, I'm <span class="text-indigo-700">Patrick</span>!
         </h1>
         <h2 class="text-indigo-400 text-2xl text-center mb-6">
@@ -16,7 +17,7 @@
     <div class="my-6 px-4 max-w-lg mx-auto text-center">
       <div class="w-100 pb-12">
 
-      <img class="w-auto mx-auto" id="patricklabbett" src="/assets/images/voice.svg" title="Patrick Labbett" alt="Patrick Labbett">
+      <img class="w-auto mx-auto" id="patricklabbett" src="/assets/images/voice.svg?dsfsdf=3433234" title="Patrick Labbett" alt="Patrick Labbett">
 
       </div>
     </div>
