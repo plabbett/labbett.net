@@ -52,7 +52,7 @@
         <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
     
     </head>
-    <body class="bg-gray-900 text-gray-200">
+    <body class="bg-gray-900 text-gray-200 min-h-screen">
         @yield('body')
     </body>
 </html>

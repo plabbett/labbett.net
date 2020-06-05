@@ -7,7 +7,7 @@
 <div class="telephony-rules">
     <div class="px-4 mx-auto max-w-lg text-center mb-8">
         <h1 class="hello text-indigo-800 font-black text-4xl text-center">
-            Hello, I'm <span class="text-indigo-700">Patrick</span>!
+            Hello, I'm <span class="text-indigo-600">Patrick</span>!
         </h1>
         <h2 class="text-indigo-400 text-2xl text-center mb-6">
             I build things for the <span class="whitespace-no-wrap font-bold text-indigo-300">call center industry</span>.
@@ -73,11 +73,40 @@
 
 <div class="bg-gray-400 px-4 py-8 mx-0 ">
     <div class="flex flex-wrap max-w-4xl mx-auto text-center">
+
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://notifi.us">
                 <img class="w-10/12 mx-auto" src="/assets/images/notifius.png" title="Technical consulting, engineering, and implementation" alt="notifi.us">
             </a>
         </div>
+
+        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
+            <a href="https://callcenterkpi.com">
+                <img class="w-10/12 mx-auto" src="/assets/images/callcenterkpi.png?1=2" title="Real-time Call Center KPI Dashboard" alt="callcenterkpi.com">
+            </a>
+        </div>
+
+        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
+            <a href="https://calltheory.com">
+                <img class="w-10/12 mx-auto" src="/assets/images/call-theory.png" title="Documentation and support for your technical staff" alt="calltheory.com">
+            </a>
+        </div>
+
+        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
+            <a href="https://wctp.io">
+                <img class="w-10/12 mx-auto" src="/assets/images/wctpio.png" title="Open-source SMS aggregator for Amtelco systems" alt="wctp.io">
+            </a>
+        </div>
+
+
+    </div>
+</div>
+
+
+<!-- on hold until after covid -->
+<!--
+<div class="bg-gray-800 px-4 py-8 mx-0 ">
+    <div class="flex flex-wrap max-w-4xl mx-auto text-center">
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://callcenterscore.com">
@@ -96,29 +125,6 @@
                 <img class="w-10/12 mx-auto" src="/assets/images/hourlycheck.png" title="Make sure your SMS, email, paging, fax, and website are up" alt="hourlycheck.com">
             </a>
         </div>
-    </div>
-</div>
-
-
-<div class="bg-gray-800 px-4 py-8 mx-0 ">
-    <div class="flex flex-wrap max-w-4xl mx-auto text-center">
-
-        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
-            <a href="https://callcenterkpi.com">
-                <img class="w-10/12 mx-auto" src="/assets/images/callcenterkpi.png?1=2" title="Real-time Call Center KPI Dashboard" alt="callcenterkpi.com">
-            </a>
-        </div>
-        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
-            <a href="https://calltheory.com">
-                <img class="w-10/12 mx-auto" src="/assets/images/call-theory.png" title="Documentation and support for your technical staff" alt="calltheory.com">
-            </a>
-        </div>
-
-        <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
-            <a href="https://wctp.io">
-                <img class="w-10/12 mx-auto" src="/assets/images/wctpio.png" title="Open-source SMS aggregator for Amtelco systems" alt="wctp.io">
-            </a>
-        </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://tas.ninja">
@@ -129,6 +135,7 @@
 
     </div>
 </div>
+-->
 
 @include('_layouts.footer')
 
