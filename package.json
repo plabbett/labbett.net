@@ -19,7 +19,7 @@
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0",
         "vue-template-compiler": "^2.6.10",
-        "yargs": "^4.6.0"
+        "yargs": "^13.1.2"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.11.2",
