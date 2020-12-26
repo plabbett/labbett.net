@@ -1,32 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <!-- 
-
-            Hi, I'm Patrick!
-
-            I do not enable any marketing, referrals, re-marketing, or personalized data collection on my site. 
-            I use Google Analytics for  historical reporting of aggregate visitors.
-            This allows me to see # of visitors to my site over time.
-            That's it. No other shenanigans. 
-
-            Thanks for taking a look under the hood.
-            Let me know (or do a pull request github:plabbett/labbett.net ) if you see improvements to make!
-
-            Thanks,
-
-            -Patrick
-
-        -->
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51998637-1"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-51998637-1', { 'anonymize_ip':true} );
-        </script>
-
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
