@@ -7,8 +7,8 @@
 <div class="telephony-rules">
     <div class="px-4 mx-auto max-w-lg text-center mb-8">
 
-        <h1 class="font-semibold text-4xl text-center">
-            Hello, I'm <span class="italic text-gray-300">Patrick Labbett</span>.
+        <h1 class="font-semibold text-4xl text-center text-gray-300">
+            Hello, I'm <span class="italic text-white">Patrick</span>.
         </h1>
 
         <h2 class="text-purple-700 text-2xl text-center mb-6">
