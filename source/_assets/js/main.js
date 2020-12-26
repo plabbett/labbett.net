@@ -1,1 +1,1 @@
-require("@fortawesome/fontawesome-free/js/all");
+require("@fortawesome/fontawesome-free/js/brands.min");
