@@ -11,8 +11,8 @@
             Hello, I'm <span class="italic text-white">Patrick</span>.
         </h1>
 
-        <h2 class="text-purple-500 text-2xl text-center mb-6">
-            I build things for the <span class="whitespace-no-wrap font-bold text-purple-400">call center industry</span>.
+        <h2 class="text-white text-2xl text-center mb-6">
+            I build things for the <span class="whitespace-no-wrap font-bold text-gray-100">call center industry</span>.
         </h2>
 
     </div>
