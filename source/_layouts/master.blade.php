@@ -22,7 +22,7 @@
         <title>@yield('title')</title>
 
         <link rel="stylesheet" media="all" href="{{ mix('css/main.css', 'assets/build') }}">
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/satellite.webp">
+        <link rel="icon" type="image/png" href="/assets/images/satellite.png">
         <script src="{{ mix('js/main.js', 'assets/build') }}" async defer></script>
     
     </head>
