@@ -11,7 +11,7 @@
         <meta property="og:site_name" content="labbett.net">
         <meta property="og:title" content="Patrick Labbett">
         <meta property="og:description" content="I build things for the call center industry.">
-        <meta property="og:image" content="https://www.labbett.net/assets/images/voice.png">
+        <meta property="og:image" content="https://www.labbett.net/assets/images/voice.webp">
         <meta property="og:url" content="https://www.labbett.net">
         <meta property="og:type" content="website">
         <meta property="og:image:alt" content="Patrick Labbett">
@@ -21,9 +21,9 @@
 
         <title>@yield('title')</title>
 
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/satellite.png">
-        <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
+        <link rel="stylesheet" media="all" href="{{ mix('css/main.css', 'assets/build') }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/satellite.webp">
+        <script src="{{ mix('js/main.js', 'assets/build') }}" async defer></script>
     
     </head>
     <body class="bg-gray-900 text-gray-200 min-h-screen">

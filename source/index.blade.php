@@ -11,8 +11,8 @@
             Hello, I'm <span class="italic text-white">Patrick</span>.
         </h1>
 
-        <h2 class="text-purple-700 text-2xl text-center mb-6">
-            I build things for the <span class="whitespace-no-wrap font-bold text-purple-600">call center industry</span>.
+        <h2 class="text-purple-500 text-2xl text-center mb-6">
+            I build things for the <span class="whitespace-no-wrap font-bold text-purple-400">call center industry</span>.
         </h2>
 
     </div>
@@ -31,10 +31,10 @@
   <div class="container text-xl font-semibold text-gray-500 mx-auto max-w-lg text-center">
 
       <a href="https://notifi.us">
-        <img class="inline-block w-64" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotfiUs, LLC">
+        <img class="inline-block w-64" src="/assets/images/notifius.webp" title="NotifiUs, LLC" alt="NotfiUs, LLC">
       </a>
 
-      <p class="text-gray-400">
+      <p class="text-gray-500">
         Technical consulting, software development, and engineering for call centers and answering services.
       </p>
 
@@ -51,25 +51,25 @@
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://notifi.us">
-                <img class="w-10/12 mx-auto" src="/assets/images/notifius.png" title="Technical consulting, engineering, and implementation" alt="notifi.us">
+                <img class="w-10/12 mx-auto" src="/assets/images/notifius.webp" title="Technical consulting, engineering, and implementation" alt="notifi.us">
             </a>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://callcenterkpi.com">
-                <img class="w-10/12 mx-auto" src="/assets/images/callcenterkpi.png?1=2" title="Real-time Call Center KPI Dashboard" alt="callcenterkpi.com">
+                <img class="w-10/12 mx-auto" src="/assets/images/callcenterkpi.webp?1=2" title="Real-time Call Center KPI Dashboard" alt="callcenterkpi.com">
             </a>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://calltheory.com">
-                <img class="w-10/12 mx-auto" src="/assets/images/call-theory.png" title="Documentation and support for your technical staff" alt="calltheory.com">
+                <img class="w-10/12 mx-auto" src="/assets/images/call-theory.webp" title="Documentation and support for your technical staff" alt="calltheory.com">
             </a>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 mx-auto my-3">
             <a href="https://wctp.io">
-                <img class="w-10/12 mx-auto" src="/assets/images/wctpio.png" title="Open-source SMS aggregator for Amtelco systems" alt="wctp.io">
+                <img class="w-10/12 mx-auto" src="/assets/images/wctpio.webp" title="Open-source SMS aggregator for Amtelco systems" alt="wctp.io">
             </a>
         </div>
 

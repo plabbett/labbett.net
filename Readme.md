@@ -34,6 +34,6 @@ Build jigsaw site without re-running Laravel Mix every time
 
 * [Jigsaw](https://jigsaw.tighten.co)
 * [TailwindCSS](https://tailwindcss.com)
-* [Font Awesome](https://fontawesome.com)
+* [Font Awesome](https://fontawesome.com/license)
 * [unDraw](https://undraw.co)
 * [Netlify](https://www.netlify.com)
